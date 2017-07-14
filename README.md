@@ -4,6 +4,7 @@ A C++ Matrix Tools Class
 C++矩阵工具类
 矩阵使用了自定义的结构体Mat<br>
 包含矩阵乘法、转置、高斯消去法求逆矩阵的方法<br>
+test.cpp中对求逆矩阵方法进行了测试<br>
 
 *注意：<br>
 1 Mat中的数据类型仅可为double类型<br>
@@ -14,6 +15,7 @@ C++矩阵工具类
 A C++ Matrix Tools Class.<br>
 Definite struct Mat as Matrix.<br>
 Include matrix multiply, matrix transposition, calculating inverse matrix by Gauss Elimination.<br>
+test.cpp show a test of inverse matrix function.<br>
 
 *Tips:<br>
 1 Data in Mat must be double.<br>
